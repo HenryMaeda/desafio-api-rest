@@ -1,2 +1,2 @@
 # desafio-api-rest
-Desafio DIO de api rest
+DESAFIO DE RESTFUL API DA DIO
